@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Виселица</string>
+
+    <string name="button_next">Следующее слово</string>
+    <string name="button_repeat">Начать заново</string>
+</resources>
